@@ -1,8 +1,0 @@
-number=10
-
-if number>9:
-   print("9")
-elif number<9:
-   print("12")
-else:
-   print("9")
